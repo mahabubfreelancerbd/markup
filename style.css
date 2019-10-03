@@ -1,0 +1,27 @@
+body{
+    background-image: url(images/bg.jpeg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.main{
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    padding: 50px;
+
+}
+.icon-text{
+    float: left;
+}
+.navigation{
+    float: right;
+}
+.big{
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+
+}
+.header-text{
+    margin-top: 150px;
+}
